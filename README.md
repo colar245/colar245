@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>	Hey, nice to see you.</h1>
 <br>
 
-<p>Welcome to my page! </br> I'm Lazar, Web developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197602.svg" width="13"/> <b>Belgrade, Serbia</b>. </p>
+<p>Welcome to my page! </br> I'm Lazar, Web developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197602.svg" width="16"/> <b>Belgrade, Serbia</b>. </p>
 
 <!--
 ### Hi there 👋
